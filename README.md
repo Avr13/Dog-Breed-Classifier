@@ -1,7 +1,3 @@
-----------------------
-# Project done under Udacity, Intel and Amazon collaborated AI Programming with Python Nanodegree
-----------------------
-
 # Dog-Breed-Classifier
 Welcome to the world of dog breed classification! In this project, we have developed a state-of-the-art Convolutional Neural Network (CNN) model that can accurately identify the breed of a dog from an input image. As dog lovers, we understand the importance of correctly identifying the breed of a furry friend, whether it's for a pet owner who is curious about their dog's heritage or for a veterinarian who needs to determine the appropriate medical care. Our CNN model has been trained on a large dataset of diverse dog images, allowing it to learn intricate features and patterns that are unique to different dog breeds. Through meticulous training and fine-tuning, our model has achieved impressive accuracy in breed prediction. Join us on this exciting journey as we unveil the capabilities of our dog breed classifier model and showcase its potential applications in the field of computer vision and animal science.
 
@@ -16,3 +12,6 @@ It's important to note that some dog breeds looked very similar to each other, a
   * Run the batch file, if needed change the CNN architechture. 
   * You should get the output picture wise.
 
+----------------------
+# Project done under Udacity, Intel and Amazon collaborated AI Programming with Python Nanodegree
+----------------------
